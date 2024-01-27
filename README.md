@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BenHays142
-- 👀 I’m interested in reverse engineering, protocol design, networking, and basically anything that can connect to the internet
-- 🌱 I’m currently studying for my CCNA
-- 💞️ I’m looking to collaborate on anything FOSS related :)
-- 📫 How to reach me: benhays@benhays.org
+I'm currently a full-time high school student in the USA, but I make time for studying computer science in my down-time.
+
+Sec+ and CCNA holder, currently working on CCNP Security. 
+
+If you need to reach out or just have a quick convo, you can reach me by email: ben@benhays.org
