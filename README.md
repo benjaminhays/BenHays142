@@ -2,4 +2,6 @@ I'm currently a full-time high school student in the USA, but I make time for st
 
 Sec+ and CCNA holder, currently working on CCNP Security. 
 
+The code for my website and a few of my other projects is available at [git.benhays.org](https://git.benhays.org)
+
 If you need to reach out or just have a quick convo, you can reach me by email: ben@benhays.org
